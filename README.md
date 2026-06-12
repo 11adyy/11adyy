@@ -1,4 +1,5 @@
-Hey! Im 11adyy
+# Hi there!
+Im 11adyy, but you can call me Dylan, Im a 16yo AI Engineer currently working on personal projects.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
