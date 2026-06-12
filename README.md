@@ -1,5 +1,4 @@
-
-![texto alternativo](https://raw.githubusercontent.com/11adyy/11adyy/main/header.svg)
+Hey! Im 11adyy
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
