@@ -1,4 +1,5 @@
 ### Languages
+![texto alternativo]([https://github.com/11adyy/11adyy/blob/main/header.svg])
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
