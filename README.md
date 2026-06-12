@@ -18,8 +18,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=langgraph)
 
+![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=langgraph)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-000?&logo=langsmith)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000?&logo=pinecone&logoColor=fff)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai&logoColor=fff)
