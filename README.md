@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m 11adyy, but you can call me Dylan. I’m 16 and I’ve been developing software for around 3 years, with the last year focused on AI engineering. I enjoy building projects, exploring ideas, and turning concepts into working systems. I’m always open to opportunities where I can contribute, learn, and keep growing as a developer.
+I’m 11adyy, but you can call me Dylan. I’m 16 y.o and I’ve been developing software for around 3 years, with the last year focused on AI engineering. I enjoy building projects, exploring ideas, and turning concepts into working systems. I’m always open to opportunities where I can contribute, learn, and keep growing as a developer.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
