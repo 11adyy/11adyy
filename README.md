@@ -8,7 +8,7 @@ My main tech stack is Python, SQL (postgres), Langchain (and its ecosystem) and 
 and infra systems / services like: Redis, RabbitMQ/Kafka, Celery, AWS.
 I build them using Docker, K8s, Postman, Observability...
 
-I've built over 120 public repos, but privately... it's probably more than 200 at this point.
+I've built over 110 repos, but privately... it's probably more than 200 at this point.
 
 Fun Facts:
 
