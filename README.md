@@ -1,44 +1,20 @@
-<div align="center">
-  <h1>Dylan</h1>
-  <p>
-    <strong>software developer · AI engineer</strong><br />
-    <sub>11adyy · Valencia, Spain</sub>
-  </p>
-</div>
+Hey there! 👋
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>17</strong><br /><sub>years old</sub></td>
-    <td align="center"><strong>~3 years</strong><br /><sub>building software</sub></td>
-    <td align="center"><strong>~1 year</strong><br /><sub>AI engineering</sub></td>
-    <td align="center"><strong>2027 →</strong><br /><sub>Netherlands</sub></td>
-  </tr>
-</table>
+I'm Noah, but you can call me adyy, an AI engineer based in Spain, moving to netherlands on 2027 probably.
 
-<br />
+I design and build whatever I can imagine, if an idea pops into my head, chances are I'll build it.
 
-I build projects and explore ideas. I'm open to opportunities where I can contribute, learn, and keep growing as a developer.
+My main tech stack is Python, SQL (postgres), Langchain (and its ecosystem) and probably more I ca
+and infra systems / services like: Redis, RabbitMQ/Kafka, Celery, AWS.
+I build them using Docker, K8s, Postman, Observability...
 
-## Selected work
+I've built over 120 public repos, but privately... it's probably more than 200 at this point.
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <sub>01</sub>
-      <h3><a href="https://github.com/11adyy/rag_e2e">RAG E2E ↗</a></h3>
-      <p>An agentic RAG API with hybrid retrieval, reranking, guardrails, and self-correction.</p>
-    </td>
-    <td width="33.33%" valign="top">
-      <sub>02</sub>
-      <h3><a href="https://github.com/11adyy/adyio">Adyio ↗</a></h3>
-      <p>An educational Python event loop built from scratch, without <code>asyncio</code>.</p>
-    </td>
-    <td width="33.33%" valign="top">
-      <sub>03</sub>
-      <h3><a href="https://github.com/11adyy/AI-recruitment-agent">AI Recruitment Agent ↗</a></h3>
-      <p>Evaluates uploaded CVs against job descriptions and returns tailored interview questions.</p>
-    </td>
-  </tr>
+Fun Facts:
+
+- I have a dog called Lucky
+- SAO is my favorite anime
+- Hobbies: anime, gym, building things, plants, learning
 </table>
 
 <br />
