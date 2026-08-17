@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Noah, but you can call me adyy, an AI engineer based in Spain, moving to netherlands on 2027 probably.
+I'm Noah, but you can call me adyy, a 17 yo AI engineer based in Spain, moving to netherlands on 2027 probably, open to reallocation anyways.
 
 I design and build whatever I can imagine, if an idea pops into my head, chances are I'll build it.
 
