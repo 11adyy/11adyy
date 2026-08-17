@@ -17,8 +17,3 @@ Fun Facts:
 - Hobbies: anime, gym, building things, plants, learning
 </table>
 
-<br />
-
-<p align="center">
-  <sub>Open to interesting opportunities and thoughtful collaborations.</sub>
-</p>
