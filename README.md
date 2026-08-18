@@ -4,9 +4,9 @@ I'm Noah, but you can call me adyy, a 17 yo AI engineer and Python enthusiast ba
 
 I design and build whatever I can imagine, if an idea pops into my head, chances are I'll build it.
 
-My main tech stack is Python, SQL (postgres), Langchain (and its ecosystem) and probably more I ca
-and infra systems / services like: Redis, RabbitMQ/Kafka, Celery, AWS.
-I build them using Docker, K8s, Postman, Observability...
+My main tech stack is Python, SQL (postgres) and Langchain (and its ecosystem).
+I also use infra systems / services like: Redis, RabbitMQ/Kafka, Celery, AWS.
+And build them using Docker, K8s, Postman, observability...
 
 I've built over 110 repos, but privately... it's probably more than 200 at this point.
 
