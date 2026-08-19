@@ -2,8 +2,6 @@ Hey there! 👋
 
 I'm Noah, but you can call me adyy, a 17 yo AI engineer and Python enthusiast based in Spain, moving to netherlands on 2027 probably, open to reallocation anyways.
 
-I design and build whatever I can imagine, if an idea pops into my head, chances are I'll build it.
-
 My main tech stack is Python, SQL (postgres) and Langchain (and its ecosystem).
 I also use infra systems / services like: Redis, RabbitMQ/Kafka, Celery, AWS and build them using Docker, K8s, Postman, observability...
 
