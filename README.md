@@ -9,4 +9,4 @@ Some of the projects I've worked on include Adyio, a recreation of Python's asyn
 If you'd ever like to chat, collaborate on something, or just talk about tech, feel free to shoot me an email!
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=11adyy&theme=everforest-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=11adyy&theme=everforest-dark&card_width=1000&card_height=170)](https://git.io/streak-stats)
