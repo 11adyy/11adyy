@@ -19,7 +19,7 @@ My contacts: </br>
 - **contact@11adyy.dev**
 
 ## Education
-- none :P
+- none ;p
 
 # My Tech Stack:
 ## Languages: 
