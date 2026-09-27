@@ -9,7 +9,7 @@ I'm interested in **compilers, operating systems and Agentic AI**, would love to
 </br> Can speak about **Operating systems, POSIX, compilers and neural networks (such as CNN, RNN, GAN), and Applied AI**
 (Yes lots of buzzwords...)
 
-</br> Languages that I'm able to speak: **Spanish (Native), English and Portuguese**
+</br> Languages that I'm able to speak: **Spanish (Native), English, Portuguese and (as a Dutch person who doesn't speak Dutch... yeah)**
 </br> 
 
 
