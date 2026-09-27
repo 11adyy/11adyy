@@ -1,16 +1,14 @@
-<h1 align="center">I'm Noah Dylan </h1>
-<h3 align="center">A system programmer and Agentic AI researcher</h3>
+I'm Noah Dylan
+A system programmer and Agentic AI researcher
 
 # About Me:
-I'm interested in **compilers, operating systems and Agentic AI**, would love to someday help fill this gap between robots and and ai.
+I'm interested in **compilers, operating systems and Agentic AI**, anyways im open to exploring other areas.
 
-</br> I'm currently learning **LLVM, ASM AVX512 SIMD, RUST, RISC-V, ML, Robotics (soon) and Noise-Immune encodings**
+I'm currently learning LLVM, ASM AVX512 SIMD, RUST, RISC-V, ML, Robotics (soon) and Noise-Immune encodings
 
-</br> Can speak about **Operating systems, POSIX, compilers and neural networks (such as CNN, RNN, GAN), and Applied AI**
-(Yes lots of buzzwords...)
+Can speak about Operating systems, POSIX, compilers and neural networks (such as CNN, RNN, GAN), and Applied AI
 
-</br> Languages that I'm able to speak: **Spanish (Native), English, Portuguese and (as a Dutch person who doesn't speak Dutch... yeah)**
-</br> 
+Languages that I'm able to speak: Spanish (Native), English, Portuguese and learning dutch
 
 
 
